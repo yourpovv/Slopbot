@@ -1,6 +1,6 @@
 # Slopbot
 
-fun utility bot for the **Napped** discord server (discord.gg/napped)
+custom fun utility bot for the **Napped** discord server (discord.gg/napped) for onsloppy
 
 ## setup
 
@@ -156,8 +156,6 @@ responds to: gm, gn, yo, gg, L, W, bruh, deez, bored, lol (30% chance)
 
 ## Support & Contact
 
-**Discord:** @sluttypets (id: 1470172610636808425)
-**Telegram:** [@depoLTC](https://t.me/depoLTC)
-**Instagram:** [@capalot.ecstasy](https://instagram.com/capalot.ecstasy)  
+[YourPOV](https://yourpov.dev/)
 
 > **Last Updated:** March 4, 2026 - v1.6.0 (Lavalink Integration)
